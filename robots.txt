@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /process.php
+Disallow: /form.php
+Disallow: /cgi-bin/
+
+Sitemap: http://www.chandan.com.np/sitemap.xml

@@ -1,0 +1,41 @@
+  _______                __        
+ / ___/ /  ___ ____  ___/ /__ ____ 
+/ /__/ _ \/ _ `/ _ \/ _  / _ `/ _ \
+\___/_//_/\_,_/_//_/\_,_/\_,_/_//_/
+                                   
+________________________________________________________________________________________________
+
+KUDOS, Hell Yeaaah!! You found my humans.txt file! \,,/ (-_-) \,,/
+
+You are an explorer and you are awesome and I respect that about you. Or may be you accidentally
+landed here and it's ok too because now you know how the WWW has evolved from THAT to THIS.
+
+WELCOME ABOARD!!!
+
+ThIS humans.txt file explains the technology and assets behind http://www.chandan.com.np/
+________________________________________________________________________________________________
+
+This website was handcrafted by Chandan Chaurasia, that is me, a UI / UX / Web Designer in 
+September, 2016 in Salem, Tamilnadu, India and was envisioned in Birgunj, Nepal in my tranquil 
+state of deep kaleidoscopic ambience.
+________________________________________________________________________________________________
+
+TECHNOLOGY
+
+For the delivery of most assets, I am using 
+	
+	1. GoogleAppEngine (AppSpot)
+	2. GitHub CDN (RawGit)
+	3. Cloudinary (images)
+	4. MaxCDN 
+	5. CloudFlare CDNJS
+	
+For structured data, Schema.org using JSON
+
+I owe my gratitude to Sir Tim Berners Lee because of whom you are able to view this file.
+Also my parents and my lovely wife Promee. I love you.
+
+Jai Nepal. 
+
+
+                                                                                                                               
