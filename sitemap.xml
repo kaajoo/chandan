@@ -6,17 +6,77 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://www.chandan.com.np/</loc>
-  <changefreq>monthly</changefreq>
+  <loc>https://www.chandan.com.np/</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.chandan.com.np/humans.txt</loc>
-  <lastmod>2017-05-05T07:47:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <loc>https://www.chandan.com.np/index.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.chandan.com.np/index.php</loc>
-  <changefreq>monthly</changefreq>
+  <loc>https://www.chandan.com.np/humans.txt</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/index.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/sikhism-introduction.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/about-us.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/donate.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/photo-gallery.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/contact-us.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/sikhism-history.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/sikhism-in-nepal.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/sikhism-in-nepal-2.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chandan.com.np/satsang/sikhism-heritage-nepal.html</loc>
+  <lastmod>2018-02-19T15:53:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
