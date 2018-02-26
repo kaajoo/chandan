@@ -1,0 +1,3 @@
+[submodule "forty"]
+	path = forty
+	url = https://github.com/MarcusVirg/forty
