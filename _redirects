@@ -3,3 +3,4 @@ https://jolly-brattain-9e451b.netlify.com/* https://www.chandan.com.np/:splat 30
 
 /staging/*  /staging/index.html  200!
 /archive/v1-jan1-2010/*  /archive/v1-jan1-2010/index.html  200!
+/archive/*  /archive/index.html  200!
