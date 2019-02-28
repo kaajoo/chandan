@@ -1,0 +1,3 @@
+# Redirect default Netlify subdomain to primary domain
+https://jolly-brattain-9e451b.netlify.com/* https://www.chandan.com.np/:splat 301!
+
