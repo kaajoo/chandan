@@ -2,5 +2,7 @@ User-agent: *
 Disallow: /process.php
 Disallow: /form.php
 Disallow: /cgi-bin/
+Disallow: /archive/
+Disallow: /staging/
 
 Sitemap: https://www.chandan.com.np/sitemap.xml
