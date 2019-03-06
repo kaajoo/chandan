@@ -19,6 +19,14 @@
   });
 
 
+  $('a.tickett-link').webuiPopoverr({
+    url: '#ticket-wrapp',
+    width: 300,
+    animation: 'pop',
+    arrow: true
+  });
+
+
   $(document).ready(function() {
 
     /*! Nicescroll */
@@ -103,6 +111,7 @@
     };
 
     var vivus = new Vivus('svg-ticket', options, onComplete);
+    var vivus = new Vivus('svg-tickett', options, onComplete);
 
     function onComplete() {}
 
