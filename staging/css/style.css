@@ -1744,7 +1744,7 @@ ul.countdown li p {
 	.scene .blob-4,
 	.scene .blob-5,
 	.scene .blob-6{
-		opacity: 0;
+		opacity: 1;
 	}
 	.content__inner {
 		background-color: #111;
