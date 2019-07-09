@@ -12,21 +12,22 @@ landed here and it's ok too because now you know how the WWW has evolved from TH
 
 WELCOME ABOARD!!!
 
-ThIS humans.txt file explains the technology and assets behind http://www.chandan.com.np/
+ThIS humans.txt file explains the technology and assets behind https://www.chandan.com.np/
 ________________________________________________________________________________________________
 
 This website was handcrafted by Chandan Chaurasia, that is me, a UI / UX / Web Designer in 
-September, 2016 in Salem, Tamilnadu, India and was envisioned in Birgunj, Nepal in my tranquil 
-state of deep kaleidoscopic ambience.
+July, 2019 in Birgunj, Nepal in my tranquil state of deep kaleidoscopic ambience. The site is
+completely static using only HTML, CSS and Javascript. No backend is used. The SSL TLS certificates 
+is provided by Let’s Encrypt.
 ________________________________________________________________________________________________
 
 TECHNOLOGY
 
-For the delivery of most assets, I am using 
+For the deployment, hosting, storage and delivery of most assets, I am using 
 	
-	1. GoogleAppEngine (AppSpot)
-	2. GitHub CDN (RawGit)
-	3. Cloudinary (images)
+	1. Netlify (Deployment)
+	2. Netlify CDN
+	3. Firebase (images)
 	4. MaxCDN 
 	5. CloudFlare CDNJS
 	
