@@ -760,7 +760,9 @@ main {
 	font-weight: 400;
 	text-align: left;
 }
-
+.about-para{
+	font-size: 1.2rem;
+}
 .content__subtitle  {
 	text-align: left;
 	font-size: 1.25em;
