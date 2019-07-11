@@ -1,18 +1,4 @@
-/*
- * Table of contents:
- * 
- * 1.Preloader
- * 2.Primary style
- * 3.Popover
- * 4.Social fixed & logo
- * 5.Countdown
- * 6.Pages
- * 7.Media
- *
- */
- 
 
-/* Page Loader */
 .loader {
 	content: '';
 	position: fixed;
