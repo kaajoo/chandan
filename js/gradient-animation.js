@@ -217,7 +217,7 @@
                 opacity: 1,
                 complete: () => DOM.links.forEach(link => {
                     link.style.pointerEvents = 'auto';
-                    link.classList.add('menu__item--showDeco');
+                    link.classList.add('#--showDeco');
                 })
             });
         });

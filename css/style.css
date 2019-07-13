@@ -707,12 +707,18 @@ main {
 .port-link{
 	color: #fff;
     font-weight: bold;
-    display: block;
-    margin: 10px 0;
+	margin: 10px 0;
+	
+	background: #dc4104;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 5px;
 }
-.port-link:hover, .port-link:active, .port-link:visited{
-	text-decoration: underline;
-	color: #fff !important;
+
+.port-link:hover{
+	background: #fff;
+	color: orange;
+	text-decoration: none;
 }
 .content__inner {
 	position: absolute;
@@ -726,8 +732,14 @@ main {
 	opacity: 0;
 	transition: opacity 0.3s;
 }
+.resume-container h6{
+	border-bottom: 2px solid #fff;
+    display: inline-block;
+}
 .pmargin{
-	margin-top:10px;
+	margin-top: 20px;
+    font-size: 1.2rem;
+    line-height: 24px;
 }
 .empty-div{
 	margin-top: 350px;
@@ -743,8 +755,51 @@ main {
 	font-weight: 400;
 	text-align: left;
 }
+.about-subheading{
+	font-size: 3rem;
+	margin: 20px 0;
+}
+.about-para-large{
+	font-size: 1.6rem;
+	line-height: 31px;
+}
 .about-para{
 	font-size: 1.2rem;
+	line-height: 28px;
+}
+
+.skill-container{
+	background: #9c2246;
+	padding: 25px;
+	border-radius: 15px;
+	margin-top: 30px !important;
+}
+.skill-container h3{
+	font-size: 2.5rem;
+}
+.skill-container h4{
+	font-size: 2rem;
+	margin: 30px 0 20px !important;
+}
+.skill-container li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	background: #c32f52;
+	border-radius: 7px;
+	margin-top: 5px !important;
+
+}
+.portfolio-container h3{
+	font-size: 1.4rem;
+    font-weight: bold;
+	margin: 15px 0 8px;
+	letter-spacing: 0;
+}
+.portfolio-container h4{
+	font-size: 1.1rem;
+    font-weight: bold;
+    margin: 15px 0 10px;
 }
 .content__subtitle  {
 	text-align: left;
@@ -926,7 +981,7 @@ main {
 	content: '';
 	width: 40%;
 	height: 10px;
-	background: linear-gradient(45deg, #f19872, #e86c9a);
+	background: linear-gradient(45deg, #9d316e, #de2d3e);
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -1114,11 +1169,11 @@ ul.countdown li p {
 }
 .speaker-image img {
 	width: 100%;
-	max-width: 150px;
+	max-width: 250px;
 	border: 5px solid rgba(255,255,255,0.5);
 	height: auto;
 	display: block;
-	border-radius: 50%;
+	border-radius: 10%;
 	box-shadow: 1px 6px 5px rgba(0,0,0,0.1);
 }
 .speaker-image h6 {
@@ -1337,7 +1392,11 @@ ul.countdown li p {
 	border-radius: 3px;
 	margin-right: 10px;
 }
-
+.otherp{
+	font-size: 2rem;
+    letter-spacing: 0;
+    font-weight: bold;
+}
 /* #Press
 ================================================== */
 
