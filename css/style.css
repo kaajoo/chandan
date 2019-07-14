@@ -617,7 +617,7 @@ body {
 /* Color schemes */
 .birgunj {
 	--color-text: #fff;
-	--color-bg: #000;
+	--color-bg: #111;
 	--color-link: #fff;
 	--color-link-hover: #5d5050;
 	--color-info: #5d5050;
@@ -679,7 +679,7 @@ main {
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-image: url('../img/background.jpg');
+	/* background-image: url('../img/background.jpg'); */
 }
 .content {
 	position: relative;
