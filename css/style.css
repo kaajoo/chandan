@@ -1000,9 +1000,6 @@ main {
 	background: linear-gradient(45deg, #3a3d98, #6f22b9);
 }
 
-.menu__item:nth-child(5)::before {
-	background: linear-gradient(45deg, #9d316e, #de2d3e);
-}
 .menu__item--showDeco:hover::before {
     transition: transform 0.8s cubic-bezier(0.2,1,0.3,1);
     transform: scale3d(2.5,1,1);
