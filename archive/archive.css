@@ -57,29 +57,29 @@
   }
   
   .ver1{
-      background: url("screenshots/version1.jpg") no-repeat center center;
+      background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version1.webp") no-repeat center center;
       background-size: cover;
   }
   .ver2{
-    background: url("screenshots/version2.jpg") no-repeat center center;
+    background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version2.webp") no-repeat center center;
     background-size: cover;
 }
 .ver3{
-    background: url("screenshots/version3.jpg") no-repeat center center;
+    background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version3.webp") no-repeat center center;
     background-size: cover;
 }
 
 .ver4{
-    background: url("screenshots/version4.jpg") no-repeat center center;
+    background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version4.webp") no-repeat center center;
     background-size: cover;
 }
 
 .ver5{
-    background: url("screenshots/version5.jpg") no-repeat center center;
+    background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version5.webp") no-repeat center center;
     background-size: cover;
 }
 .ver5-1{
-    background: url("screenshots/version5-1.jpg") no-repeat center center;
+    background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version5-1.webp") no-repeat center center;
     background-size: cover;
 }
 
@@ -89,7 +89,7 @@
 }
 
 .ver6-1{
-    background: url("screenshots/version6-1.jpg") no-repeat center center;
+    background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version6-1.webp") no-repeat center center;
     background-size: cover;
 }
   /*
