@@ -1,10 +1,11 @@
 # Redirect default Netlify subdomain to primary domain
-https://jolly-brattain-9e451b.netlify.com/* https://www.chandan.com.np/:splat 301!
+https://jolly-brattain-9e451b.netlify.com/* https://www.chandan.com.np/index.html:splat 301!
 
 https://www.chandan.com.np/satsang/* https://www.gurunanaksewa.org.np/:splat 301!
 http://chandan.com.np/satsang/* https://www.gurunanaksewa.org.np/:splat 301!
 
-/staging/  /staging/index.html  200!
+
+
 /archive/v1-jan1-2010/*  /archive/v1-jan1-2010/index.html  200!
 /archive/v2-mar29-2010/*  /archive/v2-mar29-2010/index.html  200!
 /archive/v3-jul17-2011/*  /archive/v3-jul17-2011/index.html  200!
@@ -14,5 +15,6 @@ http://chandan.com.np/satsang/* https://www.gurunanaksewa.org.np/:splat 301!
 /archive/v6.1-jun23-2019/*  /archive/v6.1-jun23-2019/index.html  200!
 /archive/*  /archive/index.html  200!
 /Vaisheshika/* /Vaisheshika/index.html 200!
+/library/* /library/index.html 200!
 
 https://www.chandan.com.np/blog/* https://www.blog.chandan.com.np/:splat 301!
