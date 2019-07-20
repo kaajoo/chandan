@@ -1551,11 +1551,11 @@ hr{
 		margin: 5px 0;
 	}
 	.ticket p {
-		/* display: none; */
+		display: none;
 	}
 
 	.tickett p{
-		/* display: none; */
+	 display: none;
 	}
 
 	.tickett{
