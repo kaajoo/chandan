@@ -15,6 +15,5 @@ http://chandan.com.np/satsang/* https://www.gurunanaksewa.org.np/:splat 301!
 /archive/v6.1-jun23-2019/*  /archive/v6.1-jun23-2019/index.html  200!
 /archive/*  /archive/index.html  200!
 /Vaisheshika/* /Vaisheshika/index.html 200!
-/library/* /library/index.html 200!
 
 https://www.chandan.com.np/blog/* https://www.blog.chandan.com.np/:splat 301!
