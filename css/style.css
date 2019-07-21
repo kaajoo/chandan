@@ -1570,6 +1570,16 @@ hr{
 	.sponsors img {
 		width: calc(50% - 10px);
 	}
+
+	.webui-popoverr {
+		left: 30px !important;
+	}
+	.speaker-image img{
+		max-width: 100% !important;
+	}
+	.content__title{
+		font-size: 2rem;
+	}
 }
 
 @media (max-width: 575px) {
