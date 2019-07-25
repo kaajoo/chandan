@@ -65,7 +65,7 @@ h2, .h2 {
 	line-height: 1;
 }
 h3, .h3 {
-	font-size: 3.75rem;
+	font-size: 2rem;
 	
 	line-height: 1;
 }
@@ -101,6 +101,22 @@ mark{
 p {
   margin-top: 0;
   margin-bottom: 0;
+  word-break: break-word;
+}
+pre{
+	border-radius: 20px;
+    box-shadow: 5px 5px 0 #a5a5a5;
+}
+.bold-statement-2{
+	margin: 20px 0;
+    background: rgba(255,255,255, .4);
+    color: #791b31;
+    font-weight: 400;
+    font-size: 1.5rem;
+    padding: 30px 40px;
+    text-align: left;
+    /* border: 3px solid #1473c9; */
+    border-radius: 20px;
 }
 
 /* #Primary style
@@ -435,6 +451,18 @@ p {
 .para-highlight a:hover{
 	background: #484848;
     color: #ffffff;
+}
+
+.bold-statement{
+	margin: 20px 0;
+    background: rgba(255,255,255, .7);
+    color: #005788;
+    font-weight: 400;
+    font-size: 1.5rem;
+    padding: 30px 40px;
+    text-align: left;
+    /* border: 3px solid #1473c9; */
+    border-radius: 20px;
 }
 /* ticker popup end */
 
@@ -823,9 +851,9 @@ main {
     font-size: 1.2rem;
     line-height: 24px;
 }
-.empty-div{
+/* .empty-div{
 	margin-top: 350px;
-}
+} */
 .content__title {
 	width: 100%;
 	margin: 0;
@@ -834,12 +862,13 @@ main {
 	text-indent: -0.05em;
 	font-family: 'Roboto', sans-serif;
 
-	font-weight: 400;
+	font-weight: 700;
 	text-align: left;
 }
 .about-subheading{
 	font-size: 3rem;
 	margin: 20px 0;
+	font-weight: 700;
 }
 .about-para-large{
 	font-size: 1.6rem;
@@ -862,14 +891,16 @@ main {
 .skill-container h4{
 	font-size: 2rem;
 	margin: 30px 0 20px !important;
+	font-weight: 300;
 }
 .skill-container li{
 	display: inline-block;
-	list-style-type: none;
-	padding: 5px 15px;
-	background: #c32f52;
-	border-radius: 7px;
-	margin-top: 5px !important;
+    list-style-type: none;
+    font-size: 1.2rem;
+    padding: 5px 15px;
+    background: #c32f52;
+    border-radius: 7px;
+    margin: 5px 2px !important;
 
 }
 .portfolio-container h3{
@@ -926,6 +957,10 @@ main {
 	background-repeat: no-repeat;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear; 
+}
+.resume-container h4{
+	margin-top: 60px;
+	font-weight: 300;
 }
 .content__close:hover:before {
 	left: -100%;
@@ -1400,7 +1435,9 @@ hr{
 	border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
 }
 
-
+.h3{
+	font-weight: 700;
+}
 
 
 
