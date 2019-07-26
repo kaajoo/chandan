@@ -1479,8 +1479,6 @@ hr{
 /* #Media
 ================================================== */
 
-@media (max-width: 1500px) { 
-}
 
 @media (max-width: 1300px) {
 	.social-fixed,
@@ -1648,6 +1646,9 @@ hr{
 	.social-fixed,
 	.location-fixed{
 		display: none;
+	}
+	.invision{
+		display: none !important;
 	}
 }
 
