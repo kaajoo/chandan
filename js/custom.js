@@ -96,7 +96,7 @@
     //Countdown
 
     $('.countdown').downCount({
-      date: '07/27/2019 12:00:00'
+      date: '09/27/2065 12:00:00'
     }, function() {
       alert('WOOT WOOT, done!');
     });
