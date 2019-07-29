@@ -20,3 +20,4 @@ http://chandan.com.np/index.php https://www.chandan.com.np/index.html 300!
 
 https://www.chandan.com.np/blog/* https://www.blog.chandan.com.np/:splat 301!
 https://www.chandan.com.np/design/* https://www.design.chandan.com.np/:splat 301!
+https://www.chandan.com.np/books/* https://www.books.chandan.com.np/:splat 301!
