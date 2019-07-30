@@ -1,6 +1,8 @@
 User-agent: *
 Disallow: /process.php
 Disallow: /form.php
+Disallow: /index.php
+
 Disallow: /cgi-bin/
 Disallow: /archive/v1-jan1-2010/
 Disallow: /archive/v2-mar29-2010/
