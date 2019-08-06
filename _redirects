@@ -6,6 +6,10 @@ http://chandan.com.np/satsang/* https://www.gurunanaksewa.org.np/:splat 301!
 http://chandan.com.np/index.php https://www.chandan.com.np/index.html 300!
 http://chandan.com.np/ https://www.chandan.com.np/ 300!
 http://www.chandan.com.np/ https://www.chandan.com.np/ 300!
+http://www.chandan.com.np/library https://www.books.chandan.com.np/ 300!
+http://books.chandan.com.np/ https://www.books.chandan.com.np/ 300!
+
+
 
 
 
@@ -23,3 +27,4 @@ http://www.chandan.com.np/ https://www.chandan.com.np/ 300!
 https://www.chandan.com.np/blog/* https://www.blog.chandan.com.np/:splat 301!
 https://www.chandan.com.np/design/* https://www.design.chandan.com.np/:splat 301!
 https://www.chandan.com.np/books/* https://www.books.chandan.com.np/:splat 301!
+
