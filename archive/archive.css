@@ -11,6 +11,9 @@
     background: url("https://res.cloudinary.com/chandan/image/upload/v1568809782/chan-cdn-static/harli-marten-n7a2OJDSZns-unsplash.jpg") no-repeat top center;
     background-size: cover;
   }
+  .black{
+    background: #000000;
+  }
   
   /*
    * Custom translucent site header
