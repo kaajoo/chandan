@@ -2,6 +2,15 @@
 .container {
     max-width: 960px;
   }
+
+  body{
+    background: #000000;
+  }
+
+  .ag{
+    background: url("https://res.cloudinary.com/chandan/image/upload/v1568809782/chan-cdn-static/harli-marten-n7a2OJDSZns-unsplash.jpg") no-repeat top center;
+    background-size: cover;
+  }
   
   /*
    * Custom translucent site header
