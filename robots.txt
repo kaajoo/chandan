@@ -1,16 +1,7 @@
 User-agent: *
 Disallow: /process.php
 Disallow: /form.php
-Disallow: /sitemap.html
 Disallow: /cgi-bin/
-Disallow: /archive/v1-jan1-2010/
-Disallow: /archive/v2-mar29-2010/
-Disallow: /archive/v3-jul17-2011/
-Disallow: /archive/v4-aug22-2012/
-Disallow: /archive/v5-may18-2013/
-Disallow: /archive/v6-aug22-2017/
 Disallow: /satsang/
-
-
 
 Sitemap: https://www.chandan.com.np/sitemap.xml
