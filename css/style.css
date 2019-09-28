@@ -966,7 +966,7 @@ main.homepage {
 .content__close {
 	position: absolute;
 	top: 18px;
-	left: 40px;
+	left: 12px;
 	overflow: hidden;
 	background: #032b3b;
 	font-weight: bold;
