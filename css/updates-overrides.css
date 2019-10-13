@@ -1,0 +1,109 @@
+/* These are all the updates and overrides to the existing 
+style.css. This file is seperate file named updates-overrides.css 
+in development/testing environment. */
+
+.content__title {
+    font-size: 3.5rem !important;
+    margin-bottom: 50px;
+    color: rgba(255, 255, 255, .8) !important;
+}
+
+.menu .fas {
+    margin-left: 15px !important;
+}
+
+.ticket,
+.tickett {
+    z-index: 13000;
+}
+
+.btn-dark {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+@media (max-width: 991px) {
+    .menu {
+        font-size: 6vw !important
+    }
+}
+
+@media (max-width: 768px) {
+    .foot-email {
+        display: block !important;
+        margin-bottom: 20px !important;
+    }
+    .content__title {
+        font-size: 2.2rem !important;
+        color: rgba(255, 255, 255, .8) !important;
+    }
+    .menu {
+        margin-top: -90px !important;
+        font-size: 8vw !important;
+    }
+    .menu__item {
+        margin: 5px 0 15px 0 !important;
+    }
+    .mobile-top-bg {
+        height: 80px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 9000;
+        background: rgb(25, 25, 25, .7);
+        width: 100%;
+        backdrop-filter: saturate(200%) blur(20px);
+    }
+    .skill-container ul {
+        padding-left: 0 !important;
+    }
+    .skill-container li {
+        display: block !important;
+        font-size: 1rem;
+        padding: 10px 15px;
+    }
+    .skill-container h4 {
+        font-size: 1.5rem;
+    }
+}
+
+.content__close {
+    z-index: 10000 !important;
+}
+
+.webui-popoverr,
+.webui-popover {
+    backdrop-filter: saturate(200%) blur(20px);
+    background: rgba(23, 23, 23, .8);
+}
+
+
+/* about page overrides */
+
+.language-css {
+    background: none !important;
+    font-size: 1.3em !important;
+    box-shadow: none !important
+}
+
+.language-css .token.selector {
+    font-size: 1.5em !important;
+}
+
+.language-css .token.property {
+    padding-left: 30px !important;
+}
+
+.padding-top-bottom {
+    padding-top: 0 !important;
+}
+
+.about-para-large {
+    line-height: 45px !important;
+}
+
+@media (max-width: 990px) {
+    .code-toolbar {
+        display: none;
+    }
+}
