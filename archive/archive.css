@@ -1,43 +1,132 @@
 /* Hello there sunshine. Keep peeping ;) */
+
 .container {
     max-width: 960px;
-  }
+}
 
-  body{
-    background: #000000;
-  }
+body {
+    background: #f7eaea;
+}
 
-  .ag{
+
+/* .ag{
     background: url("https://res.cloudinary.com/chandan/image/upload/v1568809782/chan-cdn-static/harli-marten-n7a2OJDSZns-unsplash.jpg") no-repeat top center;
     background-size: cover;
-  }
-  .black{
+  } */
+
+.black {
     background: #000000;
-  }
-  
-  /*
+}
+
+
+/* animated banner bg */
+
+.ripple-background {
+    background: #36dee0;
+}
+
+.ripple-background .circle {
+    position: absolute;
+    border-radius: 50%;
+    background: white;
+    animation: ripple 15s infinite;
+    box-shadow: 0px 0px 1px 0px #508fb9;
+}
+
+.ripple-background .small {
+    width: 200px;
+    height: 200px;
+    left: -100px;
+    bottom: -100px;
+}
+
+.ripple-background .medium {
+    width: 400px;
+    height: 400px;
+    left: -200px;
+    bottom: -200px;
+}
+
+.ripple-background .large {
+    width: 600px;
+    height: 600px;
+    left: -300px;
+    bottom: -300px;
+}
+
+.ripple-background .xlarge {
+    width: 800px;
+    height: 800px;
+    left: -400px;
+    bottom: -400px;
+}
+
+.ripple-background .xxlarge {
+    width: 1000px;
+    height: 1000px;
+    left: -500px;
+    bottom: -500px;
+}
+
+.ripple-background .shade1 {
+    opacity: 0.2;
+}
+
+.ripple-background .shade2 {
+    opacity: 0.5;
+}
+
+.ripple-background .shade3 {
+    opacity: 0.7;
+}
+
+.ripple-background .shade4 {
+    opacity: 0.8;
+}
+
+.ripple-background .shade5 {
+    opacity: 0.9;
+}
+
+@keyframes ripple {
+    0% {
+        transform: scale(0.8);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(0.8);
+    }
+}
+
+
+/*
    * Custom translucent site header
    */
-  
-  .site-header {
+
+.site-header {
     background-color: rgba(0, 0, 0, .85);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
-  }
-  .site-header a {
+}
+
+.site-header a {
     color: #999;
     transition: ease-in-out color .15s;
-  }
-  .site-header a:hover {
+}
+
+.site-header a:hover {
     color: #fff;
     text-decoration: none;
-  }
-  
-  /*
+}
+
+
+/*
    * Dummy devices (replace them with your own or something else entirely!)
    */
-  
-  .product-device {
+
+.product-device {
     position: absolute;
     right: 10%;
     bottom: -30%;
@@ -47,9 +136,9 @@
     border-radius: 21px;
     -webkit-transform: rotate(30deg);
     transform: rotate(30deg);
-  }
-  
-  .product-device::before {
+}
+
+.product-device::before {
     position: absolute;
     top: 10%;
     right: 10px;
@@ -58,66 +147,73 @@
     content: "";
     background-color: rgba(255, 255, 255, .1);
     border-radius: 5px;
-  }
-  
-  .product-device-2 {
+}
+
+.product-device-2 {
     top: -25%;
     right: auto;
     bottom: 0;
     left: 5%;
     background-color: #e5e5e5;
-  }
-  
-  .ver1{
-      background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version1.webp") no-repeat center center;
-      background-size: cover;
-  }
-  .ver2{
+}
+
+.ver1 {
+    background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version1.webp") no-repeat center center;
+    background-size: cover;
+}
+
+.ver2 {
     background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version2.webp") no-repeat center center;
     background-size: cover;
 }
-.ver3{
+
+.ver3 {
     background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version3.webp") no-repeat center center;
     background-size: cover;
 }
 
-.ver4{
+.ver4 {
     background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version4.webp") no-repeat center center;
     background-size: cover;
 }
 
-.ver5{
+.ver5 {
     background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version5.webp") no-repeat center center;
     background-size: cover;
 }
-.ver5-1{
+
+.ver5-1 {
     background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version5-1.webp") no-repeat center center;
     background-size: cover;
 }
 
-.ver6{
+.ver6 {
     background: url("screenshots/version6.jpg") no-repeat center center;
     background-size: cover;
 }
 
-.ver6-1{
+.ver6-1 {
     background: url("https://res.cloudinary.com/chandan/image/upload/c_scale,q_70,w_800/v1563122401/chan-cdn-static/screenshots/version6-1.webp") no-repeat center center;
     background-size: cover;
 }
-  /*
+
+
+/*
    * Extra utilities
    */
-  
-  .flex-equal > * {
+
+.flex-equal>* {
     -ms-flex: 1;
     flex: 1;
-  }
-  @media (min-width: 768px) {
-    .flex-md-equal > * {
-      -ms-flex: 1;
-      flex: 1;
+}
+
+@media (min-width: 768px) {
+    .flex-md-equal>* {
+        -ms-flex: 1;
+        flex: 1;
     }
-  }
-  
-  .overflow-hidden { overflow: hidden; }
-  
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
