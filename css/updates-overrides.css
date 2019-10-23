@@ -144,3 +144,8 @@ in development/testing environment. */
     top: 0;
     left: 0;
 }
+
+.menu__item:hover,
+.menu__item:focus {
+    transition: all 300ms linear;
+}
