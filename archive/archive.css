@@ -6,7 +6,7 @@
 
 body {
     background: #f7eaea;
-    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-family: 'Inter', Arial, Helvetica, sans-serif !important;
 }
 
 
