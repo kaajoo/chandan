@@ -27,7 +27,7 @@ For the deployment, hosting, storage and delivery of most assets, I am using
 	
 	1. Netlify (Deployment)
 	2. Netlify CDN
-	3. Firebase (images)
+	3. Firebase and Cloudinary (images)
 	4. MaxCDN 
 	5. CloudFlare CDNJS
 	
