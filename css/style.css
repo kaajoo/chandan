@@ -895,7 +895,7 @@ main.resume-page,
 main.blog-page {}
 
 main.blog-page {
-    background-image: radial-gradient(circle at top right, rgb(207, 24, 144) 0%, rgb(207, 24, 144) 4%, rgb(188, 23, 139) 4%, rgb(188, 23, 139) 8%, rgb(168, 21, 134) 8%, rgb(168, 21, 134) 12%, rgb(149, 20, 129) 12%, rgb(149, 20, 129) 16%, rgb(129, 18, 123) 16%, rgb(129, 18, 123) 20%, rgb(110, 17, 118) 20%, rgb(110, 17, 118) 24%, rgb(90, 15, 113) 24%, rgb(90, 15, 113) 28%, rgb(71, 14, 108) 28%, rgb(71, 14, 108) 100%);
+    background-image: radial-gradient(circle at center right, rgb(133, 11, 167) 0%, rgb(133, 11, 167) 48%, rgb(163, 27, 144) 48%, rgb(163, 27, 144) 52%, rgb(193, 42, 121) 52%, rgb(193, 42, 121) 65%, rgb(223, 58, 97) 65%, rgb(223, 58, 97) 79%, rgb(253, 73, 74) 79%, rgb(253, 73, 74) 100%);
 }
 
 main.resume-page {
