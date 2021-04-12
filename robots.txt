@@ -4,11 +4,3 @@ Disallow: /form.php
 Disallow: /cgi-bin/
 Disallow: /satsang/
 
-Sitemap: https://www.chandan.com.np/sitemap.xml
-
-User-agent: Applebot
-Allow: /
-Disallow: /process.php
-Disallow: /form.php
-Disallow: /cgi-bin/
-Disallow: /satsang/

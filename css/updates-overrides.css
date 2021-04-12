@@ -53,6 +53,7 @@ in development/testing environment. */
         background: rgb(25, 25, 25, .7);
         width: 100%;
         backdrop-filter: saturate(200%) blur(20px);
+        -webkit-backdrop-filter: saturate(200%) blur(20px);
     }
     .mobile-top-bg:before {
         display: block;
@@ -92,6 +93,7 @@ in development/testing environment. */
 .webui-popoverr,
 .webui-popover {
     backdrop-filter: saturate(200%) blur(20px);
+    -webkit-backdrop-filter: saturate(200%) blur(20px);
     background: rgba(23, 23, 23, .8);
 }
 
