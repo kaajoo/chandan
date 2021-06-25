@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Avatar Placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Find-Notables" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search-home" transform="translate(-1319.000000, -18.000000)">
+            <g id="Avatar-Placeholder" transform="translate(1319.000000, 18.000000)">
+                <circle id="Oval-5" fill="#000000" cx="17.5" cy="17.5" r="17.5"></circle>
+                <path d="M17.507014,15 C15.5711423,15 14,13.432 14,11.5 C14,9.568 15.5711423,8 17.507014,8 C19.4428858,8 21,9.568 21,11.5 C21,13.432 19.4428858,15 17.507014,15 Z M18,18 C20.6618182,18 26,19.288 26,21.85 L26,25 L10,25 L10,21.85 C10,19.288 15.3381818,18 18,18 Z" id="Combined-Shape" fill="#4C4C4C"></path>
+                <circle id="Oval" fill="#FA0058" cx="30" cy="5" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

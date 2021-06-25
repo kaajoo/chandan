@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon-web-app-rev</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-web-app-rev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,20 L24,20 L24,10 L8,10 L8,20 Z M24,22 C25.1,22 26,21.1 26,20 L26,10 C26,8.9 25.1,8 24,8 L8,8 C6.9,8 6,8.9 6,10 L6,20 C6,21.1 6.9,22 8,22 L4,22 L4,24 L28,24 L28,22 L24,22 Z" id="Fill-1" fill="#FFFFFF"></path>
+    </g>
+</svg>
