@@ -2,5 +2,4 @@ User-agent: *
 Disallow: /process.php
 Disallow: /form.php
 Disallow: /cgi-bin/
-Disallow: /satsang/
 
