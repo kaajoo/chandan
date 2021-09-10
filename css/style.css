@@ -901,7 +901,8 @@ main.blog-page {
 }
 
 main.resume-page {
-    background-image: radial-gradient(circle at bottom center, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 4%, rgb(229, 139, 24) 4%, rgb(229, 139, 24) 8%, rgb(225, 125, 29) 8%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 16%, rgb(216, 98, 41) 16%, rgb(216, 98, 41) 20%, rgb(212, 84, 46) 20%, rgb(212, 84, 46) 24%, transparent 24%, transparent 100%), radial-gradient(circle at top center, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, transparent 21%, transparent 100%), radial-gradient(circle at center left, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, transparent 21%, transparent 100%), radial-gradient(circle at center right, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, rgb(208, 70, 52) 21%, rgb(208, 70, 52) 100%);
+    /* background-image: radial-gradient(circle at bottom center, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 4%, rgb(229, 139, 24) 4%, rgb(229, 139, 24) 8%, rgb(225, 125, 29) 8%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 16%, rgb(216, 98, 41) 16%, rgb(216, 98, 41) 20%, rgb(212, 84, 46) 20%, rgb(212, 84, 46) 24%, transparent 24%, transparent 100%), radial-gradient(circle at top center, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, transparent 21%, transparent 100%), radial-gradient(circle at center left, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, transparent 21%, transparent 100%), radial-gradient(circle at center right, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, rgb(208, 70, 52) 21%, rgb(208, 70, 52) 100%); */
+    background-image: radial-gradient(circle at center center, rgb(89, 6, 134) 0%, rgb(89, 6, 134) 3%, rgb(108, 25, 146) 3%, rgb(108, 25, 146) 9%, rgb(126, 45, 158) 9%, rgb(126, 45, 158) 12%, rgb(145, 64, 171) 12%, rgb(145, 64, 171) 20%, rgb(163, 83, 183) 20%, rgb(163, 83, 183) 30%, rgb(182, 103, 195) 30%, rgb(182, 103, 195) 32%, transparent 32%, transparent 100%), radial-gradient(circle at center left, rgb(89, 6, 134) 0%, rgb(89, 6, 134) 4%, rgb(108, 25, 146) 4%, rgb(108, 25, 146) 10%, rgb(126, 45, 158) 10%, rgb(126, 45, 158) 15%, rgb(145, 64, 171) 15%, rgb(145, 64, 171) 18%, rgb(163, 83, 183) 18%, rgb(163, 83, 183) 24%, rgb(182, 103, 195) 24%, rgb(182, 103, 195) 26%, transparent 26%, transparent 100%), radial-gradient(circle at center right, rgb(89, 6, 134) 0%, rgb(89, 6, 134) 3%, rgb(108, 25, 146) 3%, rgb(108, 25, 146) 9%, rgb(126, 45, 158) 9%, rgb(126, 45, 158) 12%, rgb(145, 64, 171) 12%, rgb(145, 64, 171) 15%, rgb(163, 83, 183) 15%, rgb(163, 83, 183) 21%, rgb(182, 103, 195) 21%, rgb(182, 103, 195) 24%, rgb(200, 122, 207) 24%, rgb(200, 122, 207) 100%);
 }
 
 main.portfolio-page {
@@ -1137,6 +1138,13 @@ main.homepage {
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear; 
 } */
+
+.resume-container {
+    background: #380454d1;
+    /* backdrop-filter: blur(20px); */
+    padding: 30px;
+    border-radius: 20px;
+}
 
 .resume-container h4 {
     margin-top: 60px;
