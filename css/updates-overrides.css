@@ -151,3 +151,18 @@ in development/testing environment. */
 .menu__item:focus {
     transition: all 300ms linear;
 }
+
+
+/* ukraine support */
+
+.orange,
+.yellow,
+.red {
+    background-color: #0066cc !important;
+}
+
+.purple,
+.blue,
+.green {
+    background-color: #ffcc00 !important;
+}
