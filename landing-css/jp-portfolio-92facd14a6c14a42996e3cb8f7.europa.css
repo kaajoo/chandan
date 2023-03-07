@@ -1208,14 +1208,15 @@ ol {
 
 .orange {
     height: 100%;
-    background-color: #f27134;
+    background-color: #8E24AA;
     -webkit-transition: background-color 200ms cubic-bezier(.785, .135, .15, .86);
     transition: background-color 200ms cubic-bezier(.785, .135, .15, .86);
 }
 
 .orange:hover {
     background-color: #303030;
-    background-image: radial-gradient(circle at bottom center, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 4%, rgb(229, 139, 24) 4%, rgb(229, 139, 24) 8%, rgb(225, 125, 29) 8%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 16%, rgb(216, 98, 41) 16%, rgb(216, 98, 41) 20%, rgb(212, 84, 46) 20%, rgb(212, 84, 46) 24%, transparent 24%, transparent 100%), radial-gradient(circle at top center, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, transparent 21%, transparent 100%), radial-gradient(circle at center left, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, transparent 21%, transparent 100%), radial-gradient(circle at center right, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, rgb(208, 70, 52) 21%, rgb(208, 70, 52) 100%);
+    /* background-image: radial-gradient(circle at bottom center, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 4%, rgb(229, 139, 24) 4%, rgb(229, 139, 24) 8%, rgb(225, 125, 29) 8%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 16%, rgb(216, 98, 41) 16%, rgb(216, 98, 41) 20%, rgb(212, 84, 46) 20%, rgb(212, 84, 46) 24%, transparent 24%, transparent 100%), radial-gradient(circle at top center, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, transparent 21%, transparent 100%), radial-gradient(circle at center left, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, transparent 21%, transparent 100%), radial-gradient(circle at center right, rgb(233, 153, 18) 0%, rgb(233, 153, 18) 3%, rgb(229, 139, 24) 3%, rgb(229, 139, 24) 9%, rgb(225, 125, 29) 9%, rgb(225, 125, 29) 12%, rgb(221, 112, 35) 12%, rgb(221, 112, 35) 15%, rgb(216, 98, 41) 15%, rgb(216, 98, 41) 18%, rgb(212, 84, 46) 18%, rgb(212, 84, 46) 21%, rgb(208, 70, 52) 21%, rgb(208, 70, 52) 100%); */
+    background-image: radial-gradient(circle at bottom center, rgb(157, 48, 205) 0%, rgb(157, 48, 205) 4%, rgb(132, 41, 173) 4%, rgb(132, 41, 173) 8%, rgb(107, 35, 141) 8%, rgb(107, 35, 141) 12%, rgb(83, 28, 109) 12%, rgb(83, 28, 109) 16%, rgb(58, 21, 76) 16%, rgb(58, 21, 76) 20%, rgb(33, 15, 44) 20%, rgb(33, 15, 44) 24%, transparent 24%, transparent 100%), radial-gradient(circle at top center, rgb(157, 48, 205) 0%, rgb(157, 48, 205) 3%, rgb(132, 41, 173) 3%, rgb(132, 41, 173) 9%, rgb(107, 35, 141) 9%, rgb(107, 35, 141) 12%, rgb(83, 28, 109) 12%, rgb(83, 28, 109) 15%, rgb(58, 21, 76) 15%, rgb(58, 21, 76) 18%, rgb(33, 15, 44) 18%, rgb(33, 15, 44) 21%, transparent 21%, transparent 100%), radial-gradient(circle at top right, rgb(157, 48, 205) 0%, rgb(157, 48, 205) 3%, rgb(132, 41, 173) 3%, rgb(132, 41, 173) 9%, rgb(107, 35, 141) 9%, rgb(107, 35, 141) 12%, rgb(83, 28, 109) 12%, rgb(83, 28, 109) 15%, rgb(58, 21, 76) 15%, rgb(58, 21, 76) 18%, rgb(33, 15, 44) 18%, rgb(33, 15, 44) 21%, transparent 21%, transparent 100%), radial-gradient(circle at top left, rgb(157, 48, 205) 0%, rgb(157, 48, 205) 3%, rgb(132, 41, 173) 3%, rgb(132, 41, 173) 9%, rgb(107, 35, 141) 9%, rgb(107, 35, 141) 12%, rgb(83, 28, 109) 12%, rgb(83, 28, 109) 15%, rgb(58, 21, 76) 15%, rgb(58, 21, 76) 18%, rgb(33, 15, 44) 18%, rgb(33, 15, 44) 21%, transparent 21%, transparent 100%), radial-gradient(circle at bottom right, rgb(157, 48, 205) 0%, rgb(157, 48, 205) 3%, rgb(132, 41, 173) 3%, rgb(132, 41, 173) 9%, rgb(107, 35, 141) 9%, rgb(107, 35, 141) 12%, rgb(83, 28, 109) 12%, rgb(83, 28, 109) 15%, rgb(58, 21, 76) 15%, rgb(58, 21, 76) 18%, rgb(33, 15, 44) 18%, rgb(33, 15, 44) 21%, transparent 21%, transparent 100%), radial-gradient(circle at bottom left, rgb(157, 48, 205) 0%, rgb(157, 48, 205) 3%, rgb(132, 41, 173) 3%, rgb(132, 41, 173) 9%, rgb(107, 35, 141) 9%, rgb(107, 35, 141) 12%, rgb(83, 28, 109) 12%, rgb(83, 28, 109) 15%, rgb(58, 21, 76) 15%, rgb(58, 21, 76) 18%, rgb(33, 15, 44) 18%, rgb(33, 15, 44) 21%, rgb(39, 11, 46) 21%, rgb(39, 11, 46) 100%);
 }
 
 .background {
@@ -1306,7 +1307,7 @@ ol {
 }
 
 .home-page-heading:hover {
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 
 .home-page-heading.faux:hover {
