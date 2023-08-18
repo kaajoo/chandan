@@ -152,6 +152,45 @@ in development/testing environment. */
     transition: all 300ms linear;
 }
 
+.yellow {
+    background-color: #8E24AA !important;
+}
+
+.yellow:hover {
+    background-image: radial-gradient(circle at bottom right, rgb(167, 80, 180) 0%, rgb(167, 80, 180) 4%, rgb(143, 68, 151) 4%, rgb(143, 68, 151) 8%, rgb(120, 55, 121) 8%, rgb(120, 55, 121) 12%, rgb(96, 43, 92) 12%, rgb(96, 43, 92) 16%, rgb(72, 31, 62) 16%, rgb(72, 31, 62) 20%, rgb(49, 18, 33) 20%, rgb(49, 18, 33) 24%, transparent 24%, transparent 100%), radial-gradient(circle at bottom left, rgb(167, 80, 180) 0%, rgb(167, 80, 180) 4%, rgb(143, 68, 151) 4%, rgb(143, 68, 151) 8%, rgb(120, 55, 121) 8%, rgb(120, 55, 121) 12%, rgb(96, 43, 92) 12%, rgb(96, 43, 92) 16%, rgb(72, 31, 62) 16%, rgb(72, 31, 62) 20%, rgb(49, 18, 33) 20%, rgb(49, 18, 33) 24%, rgb(25, 6, 3) 24%, rgb(25, 6, 3) 100%) !important;
+}
+
+.green {
+    background-color: rgb(12 163 65) !important;
+}
+
+.blue {
+    background-color: rgb(12 163 65) !important;
+}
+
+.blue:hover {
+    background-image: radial-gradient(circle at top center, rgb(220, 206, 83) 0%, rgb(220, 206, 83) 5%, rgb(199, 202, 70) 5%, rgb(199, 202, 70) 10%, rgb(179, 198, 56) 10%, rgb(179, 198, 56) 15%, rgb(158, 194, 43) 15%, rgb(158, 194, 43) 20%, rgb(137, 190, 30) 20%, rgb(137, 190, 30) 25%, rgb(117, 186, 16) 25%, rgb(117, 186, 16) 30%, transparent 30%, transparent 100%), radial-gradient(circle at bottom right, rgb(220, 206, 83) 0%, rgb(220, 206, 83) 5%, rgb(199, 202, 70) 5%, rgb(199, 202, 70) 10%, rgb(179, 198, 56) 10%, rgb(179, 198, 56) 15%, rgb(158, 194, 43) 15%, rgb(158, 194, 43) 20%, rgb(137, 190, 30) 20%, rgb(137, 190, 30) 25%, rgb(117, 186, 16) 25%, rgb(117, 186, 16) 30%, transparent 30%, transparent 100%), radial-gradient(circle at bottom left, rgb(220, 206, 83) 0%, rgb(220, 206, 83) 5%, rgb(199, 202, 70) 5%, rgb(199, 202, 70) 10%, rgb(179, 198, 56) 10%, rgb(179, 198, 56) 15%, rgb(158, 194, 43) 15%, rgb(158, 194, 43) 20%, rgb(137, 190, 30) 20%, rgb(137, 190, 30) 25%, rgb(117, 186, 16) 25%, rgb(117, 186, 16) 30%, rgb(96, 182, 3) 30%, rgb(96, 182, 3) 100%) !important;
+}
+
+.red {
+    background-image: radial-gradient(circle at top right, rgb(125, 0, 32) 0%, rgb(125, 0, 32) 22%, rgb(156, 9, 37) 22%, rgb(156, 9, 37) 38%, rgb(167, 9, 34) 38%, rgb(167, 9, 34) 39%, rgb(178, 10, 30) 39%, rgb(178, 10, 30) 43%, rgb(188, 10, 26) 43%, rgb(188, 10, 26) 64%, rgb(153, 0, 10) 64%, rgb(153, 0, 10) 96%, rgb(153, 0, 10) 96%, rgb(153, 0, 10) 99%, rgb(153, 0, 10) 99%, rgb(153, 0, 10) 100%) !important;
+}
+
+.purple {
+    background-image: radial-gradient(circle at bottom right, rgb(52, 33, 141) 0%, rgb(52, 33, 141) 20%, rgb(52, 50, 168) 20%, rgb(52, 50, 168) 40%, rgb(52, 68, 195) 40%, rgb(52, 68, 195) 60%, rgb(52, 85, 221) 60%, rgb(52, 85, 221) 80%, rgb(52, 102, 248) 80%, rgb(52, 102, 248) 100%) !important;
+}
+
+.site-intro,
+.home-page-heading,
+.homepage-small-text {
+    font-family: 'Prompt', sans-serif !important;
+}
+
+.homepage-small-text {
+    font-weight: 300 !important;
+    font-size: 13px !important;
+}
+
 
 /* ukraine support */
 
