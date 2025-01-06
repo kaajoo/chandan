@@ -1201,10 +1201,6 @@ ol {
 
 }
 
-.yellow:hover {
-    background-color: #303030;
-    background-image: radial-gradient(circle at bottom right, rgb(242, 106, 56) 0%, rgb(242, 106, 56) 4%, rgb(238, 120, 55) 4%, rgb(238, 120, 55) 14%, rgb(233, 134, 54) 14%, rgb(233, 134, 54) 25%, rgb(229, 148, 53) 25%, rgb(229, 148, 53) 42%, rgb(224, 162, 51) 42%, rgb(224, 162, 51) 49%, rgb(220, 176, 50) 49%, rgb(220, 176, 50) 66%, rgb(215, 190, 49) 66%, rgb(215, 190, 49) 97%, rgb(211, 204, 48) 97%, rgb(211, 204, 48) 100%);
-}
 
 .orange {
     height: 100%;
