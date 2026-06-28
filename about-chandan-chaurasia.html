@@ -102,6 +102,66 @@
     <script type="text/javascript" src="https://usrwy.com/widget.js"></script>
     <link rel="stylesheet" href="css/updates-overrides.css" />
 
+    <style>
+        #townsquare-root#townsquare-root {
+            --scene: transparent;
+            --page: #1a4c24;
+            --surface: #fdf8f4;
+            --ink: #2a2926;
+            --you: #c8641f;
+            --tree-trunk: #332000;
+            --tree-canopy: #167e43;
+            --other: #26241f;
+            --ground: rgba(42, 41, 38, 0.16);
+            --scene-edge: color-mix(in oklab, var(--scene) 88%, var(--page) 12%);
+            --you-deep: var(--you);
+            --text: var(--ink);
+            --muted: var(--ink);
+        }
+        
+        #townsquare-root#townsquare-root[data-townsquare-theme="dark"] {
+            --scene: #242521;
+            --page: #181917;
+            --surface: #24231f;
+            --ink: #f2eee6;
+            --you: #df8a43;
+            --tree-trunk: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+            --tree-canopy: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+            --other: #ddd7cc;
+            --ground: rgba(242, 238, 230, 0.18);
+            --scene-edge: color-mix(in oklab, var(--scene) 88%, var(--page) 12%);
+            --you-deep: var(--you);
+            --text: var(--ink);
+            --muted: var(--ink);
+        }
+        
+        @media (prefers-color-scheme: dark) {
+            #townsquare-root#townsquare-root[data-townsquare-theme="auto"] {
+                --scene: #242521;
+                --page: #181917;
+                --surface: #24231f;
+                --ink: #f2eee6;
+                --you: #df8a43;
+                --tree-trunk: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+                --tree-canopy: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+                --other: #ddd7cc;
+                --ground: rgba(242, 238, 230, 0.18);
+                --scene-edge: color-mix(in oklab, var(--scene) 88%, var(--page) 12%);
+                --you-deep: var(--you);
+                --text: var(--ink);
+                --muted: var(--ink);
+            }
+        }
+        
+        #townsquare-root#townsquare-root .townsquare__stage {
+            background: linear-gradient( 180deg, var(--scene) 0%, var(--scene) 72%, var(--scene-edge) 72%, var(--page) 72.4%, var(--page) 100%);
+        }
+        
+        #townsquare-root#townsquare-root .townsquare__ground {
+            background: var(--ground);
+        }
+    </style>
+
 
 
     <!-- 
@@ -264,7 +324,7 @@
             <a href="https://www.deviantart.com/webdeviant" target="_blank" rel="noopener" title="Chandan on DeviantArt"><i class="fab fa-deviantart"></i> On DeviantArt</a>
             <a href="https://drive.google.com/file/d/1fRXdjsa6kGlySl-Sq9AtB-w58_mQ5a0K/view?usp=sharing" title="Chandan Chaurasia Resume" target="_blank" rel="noopener"><i class="fas fa-file"></i> Download my
                     Résumé</a>
-            <a href="tel: +9779806893749"><i class="fas fa-phone"></i> +977-9806893749</a>
+            <a href="tel: +9779865415765"><i class="fas fa-phone"></i> +977-9865415765</a>
             <a href="mailto: cchaurasia@gmail.com" title="Chandan Chaurasia email"><i class="fas fa-at"></i>
                     cchaurasia@gmail.com</a>
             <hr>
@@ -446,7 +506,7 @@ content: "Please read below";
                                     <span class="foot-email" title="Chandan Chauraisa gmail id"><i class="fas fa-at"></i>
                                         cchaurasia@gmail.com</span>
                                     <span title="Chandan Chaurasia phone number"><i
-                                            class="fas fa-phone"></i>+977-9806893749</span>
+                                            class="fas fa-phone"></i>+977-9865415765</span>
                                     <p class="foot-social">
                                         <span><a href="https://linkedin.com/in/chaurasia"><i
                                                     class="fab fa-linkedin"></i></a></span>
@@ -527,7 +587,7 @@ content: "Please read below";
                 "image": "https://res.cloudinary.com/chandan/image/upload/v1473970643/me_jdq27e.jpg",
                 "jobTitle": "Creative UI / UX / Web Designer and Front End Developer based in Kathmandu",
                 "name": "Chandan Chaurasia",
-                "telephone": "(+977)-9806893749",
+                "telephone": "(+977)-9865415765",
                 "url": "https://www.chandan.com.np/",
                 "sameAs": ["https://www.facebook.com/channdan", "https://twitter.com/Biirgunz", "https://kaajoo.tumblr.com",
                     "https://www.blog.chandan.com.np"
@@ -562,6 +622,13 @@ content: "Please read below";
             gtag('config', 'UA-4681610-3');
         </script>
         <script src="https://res.cloudinary.com/chandan/raw/upload/v1564168154/chan-cdn-static/prism.js"></script>
+
+        <link rel="preconnect " href="https://townsquare.cauenapier.com " crossorigin />
+        <link rel="stylesheet " href="https://townsquare.cauenapier.com/widget.css " />
+        <div id="townsquare-root "></div>
+        <script type="module " async>
+            import { mountTownSquare } from "https://townsquare.cauenapier.com/townsquare.mjs "; mountTownSquare(document.getElementById("townsquare-root "), { serverOrigin: "https://townsquare.cauenapier.com ", siteKey: "site_hnvi58L0bQgH1Pp5 ", theme: "host " });
+        </script>
 
 
         <!-- 
